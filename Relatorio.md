@@ -95,13 +95,13 @@ Para cada desenho presente no LCD foi utilizado o site de acesso gratuito [LCD C
 
 A explicação é que o Display LCD conta com 16 “compartimentos” de 8x5 pixels cada. Como cada desenho feito preencheu duas linhas e três colunas, ou seja, 6 “compartimentos”, um único ícone (por exemplo, a nota musical) precisou ser dividido em seis partes, cada parte com um determinado número de pixels que não ultrapassasse o limite de 8x5.
 
-![Nota musical dividida em seis partes](https://i.ibb.co/jw08Ngy/lcd-01.png)
+![Nota musical dividida em seis partes](https://i.ibb.co/RQHcjHP/lcd-01.png)
 
 Para que fosse possível realizar uma curta animação, no caso do disco de vinil, foram criados três desenhos, em que cada um apresentou uma mudança na posição dos pixels entre as bordas, criando a sensação de o disco estar rodando.
 
-![Desenho 1 do disco de vinil](https://i.ibb.co/smD1bWT/lcd-02.png)
-![Desenho 2 do disco de vinil](https://i.ibb.co/wJ27hMQ/lcd-06.png)
-![Desenho 3 do disco de vinil](https://i.ibb.co/pdkfZ4R/lcd-04.png)
+![Desenho 1 do disco de vinil](https://i.ibb.co/k4DzkrK/lcd-02.png)
+![Desenho 2 do disco de vinil](https://i.ibb.co/wWC0nbX/lcd-04.png)
+![Desenho 3 do disco de vinil](https://i.ibb.co/D9nPr3T/lcd-06.png)
 
 ## Dificuldade e soluções
 
