@@ -1,7 +1,7 @@
 
 # Simulador de Jukebox utilizando PICGenios - PIC18F4520 e simulado com PICSimLab
 
-Projeto feito para a disciplina ECOP04 e ECOP14 da Universidade Federal de Itajubá (Unifei) que consiste na simulação de uma máquina de tocar música. 
+Projeto feito para a disciplina ECOP04 e ECOP14 da Universidade Federal de Itajubá (Unifei) no período de 2021.1 que consiste na simulação de uma máquina de tocar música. 
 
 O usuário pode escolher entre três músicas diferentes simuladas pelo “beep” do componente Buzzer ao apertar botões no teclado matricial da placa (estes especificados no Display LCD).
 	
