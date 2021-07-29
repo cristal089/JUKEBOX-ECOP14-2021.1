@@ -38,3 +38,15 @@ Você pode acessar o vídeo por meio do Youtube, neste link que se segue:
 
 ![jukebox.X.production.hex](https://i.ibb.co/z4DdPCL/instru-o-07.png)
 
+## Funções do teclado
+
+Para chegar ao menu de seleção de música basta apertar a tecla de asterisco (*):
+
+![Localização da tecla asterisco](https://i.ibb.co/HXDzWjV/teclado-01.png)
+
+Para navegar entre os exemplares de música e desativar ou ativar novamente o som basta seguir estas teclas:
+
+![Localização das demais teclas](https://i.ibb.co/8D2bXpW/teclado-03.png)
+
+Para instruções detalhadas leia o [relatório deste projeto](https://github.com/cristalOblivion/JUKEBOX-ECOP14-2021.1/blob/main/Relatorio.md)
+
