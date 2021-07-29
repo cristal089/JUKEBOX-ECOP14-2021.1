@@ -48,5 +48,5 @@ Para navegar entre os exemplares de música e desativar ou ativar novamente o so
 
 ![Localização das demais teclas](https://i.ibb.co/8D2bXpW/teclado-03.png)
 
-Para instruções detalhadas leia o [relatório deste projeto](https://github.com/cristalOblivion/JUKEBOX-ECOP14-2021.1/blob/main/Relatorio.md)
+Para instruções mais detalhadas leia o [relatório deste projeto](https://github.com/cristalOblivion/JUKEBOX-ECOP14-2021.1/blob/main/Relatorio.md)!
 
