@@ -6,7 +6,7 @@ Este é um projeto desenvolvido para consolidar o aprendizado das disciplinas EC
 
 ## Vídeo para visualização da Jukebox sendo simulada
 
-Você pode acessar o vídeo por meio do Youtube, neste link que se segue:
+Você pode acessar o vídeo por meio do Youtube, neste link que se segue: https://youtu.be/lRWH1rnOp5c
 
 ## Softwares utilizados no projeto
 
