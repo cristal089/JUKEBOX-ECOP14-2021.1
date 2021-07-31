@@ -93,7 +93,7 @@ Basta apertar novamente o botão de asterisco (*) para então retornar ao menu d
 
 Para cada desenho presente no LCD foi utilizado o site de acesso gratuito [LCD Custom Character Generator](https://maxpromer.github.io/LCD-Character-Creator/). Os desenhos foram feitos com no máximo 8x5 pixels por divisão.
 
-A explicação é que o Display LCD conta com 16 “compartimentos” de 8x5 pixels cada. Como cada desenho feito preencheu duas linhas e três colunas, ou seja, 6 “compartimentos”, um único ícone (por exemplo, a nota musical) precisou ser dividido em seis partes, cada parte com um determinado número de pixels que não ultrapassasse o limite de 8x5.
+A explicação é que o Display LCD conta com 16 “compartimentos” de 8x5 pixels cada para cada linha (podendo ser exibidas duas ou quatro linhas no LCD). Como cada desenho feito preencheu duas linhas e três colunas, ou seja, 6 “compartimentos”, um único ícone (por exemplo, a nota musical) precisou ser dividido em seis partes, cada parte com um determinado número de pixels que não ultrapassasse o limite de 8x5.
 
 ![Nota musical dividida em seis partes](https://i.ibb.co/RQHcjHP/lcd-01.png)
 
